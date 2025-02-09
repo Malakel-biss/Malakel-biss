@@ -37,7 +37,7 @@ I'm Malak EL-BISSOURI, a passionate engineering student with a keen interest in 
 
 ### CPGE Lycée Mohammed VI (2020 - 2022)  
 - **Classes préparatoire aux grandes écoles**  
-- Focus: Mathematics and Physics (MP)
+- Field: Mathematics and Physics (MP)
 
 ---
 
