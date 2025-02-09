@@ -9,14 +9,9 @@
   
 ## 👩‍💻 About Me
 
-**Full Stack Developer | Passionate about DevOps & Software Engineering**  
+**Sofware Engineering Student | Passionate about DevOps & Full Stack Development**  
+I'm Malak EL-BISSOURI, a passionate engineering student with a keen interest in DevOps and Full Stack Development. I love solving complex problems through technology and continuously seek opportunities to grow and contribute to impactful projects. Always eager to learn and collaborate, I aim to make a meaningful impact in the tech industry.
 📍 **Location:** Paris, France  
-🎓 **Education:**  
-- **Télécom SudParis** (2024 - Present) - Engineering Degree in Software Engineering  
-- **ENSIAS** (2022 - 2025) - Engineering Degree in Software Engineering  
-- **Preparatory Classes (CPGE)** (2020 - 2022) - Focus: Mathematics and Physics  
-  
-
 📧 **Contact:** malak.elbissouri@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/malak-el-bissouri-9b764a255/)
 
@@ -26,11 +21,11 @@
 
 ### Télécom SudParis (2024 - Present)  
 - **Engineering Degree**  
-- Specialization: Software Engineering
+- Specialization: Deployment and Integration of Information Systems
 
 ### ENSIAS (2022 - 2025)  
 - **Engineering Degree**  
-- Specialization: Software Engineering, Systems Analysis
+- Specialization: Software Engineering
 
 ### Lycée Mohammed VI (2020 - 2022)  
 - **Preparatory Classes for Grandes Écoles**  
