@@ -35,8 +35,8 @@ I'm Malak EL-BISSOURI, a passionate engineering student with a keen interest in 
 - **Engineering Degree**  
 - Specialization: Software Engineering
 
-### Lycée Mohammed VI (2020 - 2022)  
-- **Preparatory Classes for Grandes Écoles**  
+### CPGE Lycée Mohammed VI (2020 - 2022)  
+- **Classes préparatoire aux grandes écoles**  
 - Focus: Mathematics and Physics (MP)
 
 ---
