@@ -27,11 +27,11 @@ I'm Malak EL-BISSOURI, a passionate engineering student with a keen interest in 
 
 ## 🎓 Education
 
-### Télécom SudParis (2024 - Present)  
+### TSP - Télécom SudParis (2024 - Present)  
 - **Engineering Degree**  
 - Specialization: Deployment and Integration of Information Systems
 
-### ENSIAS (2022 - 2025)  
+### ENSIAS - École Nationale Supérieure d'Informatique et d'Analyse des Système (2022 - 2025)  
 - **Engineering Degree**  
 - Specialization: Software Engineering
 
