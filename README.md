@@ -1,9 +1,32 @@
 # Welcome to my profile!
 
+<link href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" rel="stylesheet">
+
 <div align="center">
-  <h1 style="color: #FF5733; font-size: 3em;">Hi there 👋</h1>
-  <p style="font-size: 1.5em;">I’m Malak EL-BISSOURI</p>
+  <h1 class="animate__animated animate__fadeIn animate__delay-1s" style="color: #FF5733; font-size: 3em; animation-duration: 2s;">
+    Hi there 👋
+  </h1>
+  <p class="animate__animated animate__fadeIn animate__delay-2s" style="font-size: 1.5em; animation-duration: 2s; color: #4CAF50;">
+    I’m Malak EL-BISSOURI
+  </p>
 </div>
+
+<style>
+  /* Ajout d'un effet de changement de couleur pour un effet dynamique */
+  h1 {
+    animation: colorChange 3s infinite alternate;
+  }
+
+  p {
+    animation: colorChange 3s infinite alternate 1s; /* Délai pour que p change après h1 */
+  }
+
+  @keyframes colorChange {
+    0% { color: #FF5733; }  /* Initiale couleur du texte */
+    50% { color: #3498db; }  /* Changement de couleur */
+    100% { color: #9b59b6; } /* Autre couleur */
+  }
+</style>
 
 ---
   
@@ -15,7 +38,7 @@ I'm Malak EL-BISSOURI, a passionate engineering student with a keen interest in 
 
 📍 **Location:** Paris, France  
 📧 **Contact:** malak.elbissouri@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/malak-el-bissouri-9b764a255/)
+🔗 [Malak EL-BISSOURI](https://www.linkedin.com/in/malak-el-bissouri-9b764a255/)
 
 ---
 
