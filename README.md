@@ -99,7 +99,7 @@ Location: Rabat, Morocco
 ## 🛠 Tools & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,unity,eclipse,html,css,js,php,postgresql,vscode,visualstudio,latex,python,java,windows,linux,github,gitlab,androidstudio,intellij,oracle,mysql,plsql,sqlserver,ssms,firebase,sqlite,docker,kubernetes,jenkins,grafana,microservices,springboot,symfony" alt="Technologies and Tools" width="700">
+  <img src="https://skillicons.dev/icons?i=c,unity,eclipse,html,css,js,php,postgresql,vscode,visualstudio,latex,python,java,windows,linux,github,gitlab,androidstudio,mysql,firebase,sqlite,docker,kubernetes,jenkins,grafana,microservices,symfony" alt="Technologies and Tools" width="700">
 </div>
 
 
