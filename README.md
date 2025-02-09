@@ -11,23 +11,6 @@
   </p>
 </div>
 
-<style>
-  /* Ajout d'un effet de changement de couleur pour un effet dynamique */
-  h1 {
-    animation: colorChange 3s infinite alternate;
-  }
-
-  p {
-    animation: colorChange 3s infinite alternate 1s; /* Délai pour que p change après h1 */
-  }
-
-  @keyframes colorChange {
-    0% { color: #FF5733; }  /* Initiale couleur du texte */
-    50% { color: #3498db; }  /* Changement de couleur */
-    100% { color: #9b59b6; } /* Autre couleur */
-  }
-</style>
-
 ---
   
 ## 👩‍💻 About Me
