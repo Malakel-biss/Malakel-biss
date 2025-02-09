@@ -42,7 +42,7 @@ Location: Rabat, Morocco
 - Developed a web application for managing GSM line invoices for Ministry employees  
 - Technologies: PHP, HTML, SQL Server, jQuery, JavaScript
 
-### **Projects**
+### 💼 Projects
 
 #### **Cassiopée AI Industrial Project** (Ongoing)  
 - SAAS platform based on AI for teaching and rapid prototyping  
